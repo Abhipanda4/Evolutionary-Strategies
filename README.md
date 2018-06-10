@@ -4,9 +4,10 @@
 ### Results:
 
 
-* Case 1: When the DNA size is limited to 1:
+* Finding maxima using crossovers and mutations:
 ![Evolution](figs/size_1_DNA/evolution.gif)
 
+* Finding maxima using (1+1)-ES and Rechenberg's 1/5th rule:
 
 #### References:
 * [MorvanZhou's awesome Evolutionary-Algorithm repo](https://github.com/MorvanZhou/Evolutionary-Algorithm)
