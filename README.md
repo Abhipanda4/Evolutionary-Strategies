@@ -8,6 +8,7 @@
 ![Evolution](figs/size_1_DNA/evolution.gif)
 
 * Finding maxima using (1+1)-ES and Rechenberg's 1/5th rule:
+![Evolution](figs/1_plus_1/animation.gif)
 
 #### References:
 * [MorvanZhou's awesome Evolutionary-Algorithm repo](https://github.com/MorvanZhou/Evolutionary-Algorithm)
